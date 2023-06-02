@@ -19,9 +19,9 @@ class_dict = {
     22: 'bear',
     23: 'zebra',
     24: 'giraffe',
-    25: 'backpack',
-    26: 'umbrella',
-    27: 'handbag',
+    25: 'umbrella',#25: 'backpack'
+    26: 'handbag',#26: 'umbrella'
+    27: 'backpack',#27: 'handbag'
     28: 'tie',
     29: 'suitcase',
     30: 'frisbee',
@@ -52,8 +52,8 @@ class_dict = {
     55: 'donut',
     56: 'cake',
     57: 'chair',
-    58: 'couch',
-    59: 'potted plant',
+    58: 'potted plant',#58: 'couch',
+    59: 'couch',#59: 'potted plant',
     60: 'bed',
     61: 'dining table',
     62: 'toilet',
@@ -76,3 +76,4 @@ class_dict = {
     79: 'hair drier',
     80: 'toothbrush'
 }
+# this is not an official list, just used for this example project but don't rely on this for another project.
